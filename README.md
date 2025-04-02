@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# HP_Ass-2
+# HP_Assignment-2
 PES1UG22CS494
 =======
 # Directory-Based Cache Coherence Protocol Simulation
